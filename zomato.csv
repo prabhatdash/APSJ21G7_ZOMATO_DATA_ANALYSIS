@@ -1,0 +1,1001 @@
+City,Has Table booking,Has Online delivery,Aggregate rating,Rating text
+Makati City,Yes,No,4.8,Excellent
+Makati City,Yes,No,4.5,Excellent
+Mandaluyong City,Yes,No,4.4,Very Good
+Mandaluyong City,No,No,4.9,Excellent
+Mandaluyong City,Yes,No,4.8,Excellent
+Mandaluyong City,No,No,4.4,Very Good
+Pasay City,Yes,No,4,Very Good
+Pasay City,Yes,No,4.2,Very Good
+Pasay City,Yes,No,4.9,Excellent
+Pasig City,Yes,No,4.8,Excellent
+Pasig City,No,No,4.9,Excellent
+Pasig City,Yes,No,4.2,Very Good
+Quezon City,No,No,4.8,Excellent
+San Juan City,Yes,No,4.2,Very Good
+San Juan City,No,No,4.3,Very Good
+Santa Rosa,No,No,3.6,Good
+Santa Rosa,No,No,4,Very Good
+Tagaytay City,Yes,No,4.5,Excellent
+Taguig City,No,No,4.5,Excellent
+Taguig City,Yes,No,4.4,Very Good
+Taguig City,Yes,No,4.7,Excellent
+Taguig City,Yes,No,4.5,Excellent
+Brasí_lia,No,No,3,Average
+Brasí_lia,No,No,3.8,Good
+Brasí_lia,No,No,3.7,Good
+Brasí_lia,No,No,3.8,Good
+Brasí_lia,No,No,3.2,Average
+Brasí_lia,No,No,3.1,Average
+Brasí_lia,No,No,3.7,Good
+Brasí_lia,No,No,3.7,Good
+Brasí_lia,No,No,0,Not rated
+Brasí_lia,No,No,4.1,Very Good
+Brasí_lia,No,No,3.1,Average
+Brasí_lia,No,No,3.6,Good
+Brasí_lia,No,No,4.3,Very Good
+Brasí_lia,No,No,4.2,Very Good
+Brasí_lia,No,No,3.6,Good
+Brasí_lia,No,No,4,Very Good
+Brasí_lia,No,No,3.2,Average
+Brasí_lia,No,No,4.9,Excellent
+Brasí_lia,No,No,3.3,Average
+Brasí_lia,No,No,3.6,Good
+Rio de Janeiro,No,No,4,Very Good
+Rio de Janeiro,No,No,4.8,Excellent
+Rio de Janeiro,No,No,4.7,Excellent
+Rio de Janeiro,No,No,4.5,Excellent
+Rio de Janeiro,No,No,4.2,Very Good
+Rio de Janeiro,No,No,4.8,Excellent
+Rio de Janeiro,No,No,4.9,Excellent
+Rio de Janeiro,No,No,4.6,Excellent
+Rio de Janeiro,No,No,4.9,Excellent
+Rio de Janeiro,No,No,4.6,Excellent
+Rio de Janeiro,No,No,4.3,Very Good
+Rio de Janeiro,No,No,4,Very Good
+Rio de Janeiro,No,No,4.6,Excellent
+Rio de Janeiro,No,No,4.4,Very Good
+Rio de Janeiro,No,No,4.2,Very Good
+Rio de Janeiro,No,No,4.2,Very Good
+Rio de Janeiro,No,No,0,Not rated
+Rio de Janeiro,No,No,4.7,Excellent
+Rio de Janeiro,No,No,4.6,Excellent
+Rio de Janeiro,No,No,4.3,Very Good
+Sí£o Paulo,No,No,4.5,Excellent
+Sí£o Paulo,No,No,4.4,Very Good
+Sí£o Paulo,No,No,3.1,Average
+Sí£o Paulo,No,No,4.1,Very Good
+Sí£o Paulo,No,No,4.8,Excellent
+Sí£o Paulo,No,No,4.6,Excellent
+Sí£o Paulo,No,No,3.9,Good
+Sí£o Paulo,No,No,0,Not rated
+Sí£o Paulo,No,No,3.4,Average
+Sí£o Paulo,No,No,3.5,Good
+Sí£o Paulo,No,No,4.3,Very Good
+Sí£o Paulo,No,No,3.9,Good
+Sí£o Paulo,No,No,4.3,Very Good
+Sí£o Paulo,No,No,4.3,Very Good
+Sí£o Paulo,No,No,4.4,Very Good
+Sí£o Paulo,No,No,0,Not rated
+Sí£o Paulo,No,No,0,Not rated
+Sí£o Paulo,No,No,4.4,Very Good
+Sí£o Paulo,No,No,4.6,Excellent
+Sí£o Paulo,No,No,4.1,Very Good
+Albany,No,No,3.3,Average
+Albany,No,No,3.3,Average
+Albany,No,No,3.4,Average
+Albany,No,No,3.4,Average
+Albany,No,No,3.4,Average
+Albany,No,No,3.4,Average
+Albany,No,No,3.5,Good
+Albany,No,No,3.9,Good
+Albany,No,No,3.7,Good
+Albany,No,No,3.5,Good
+Albany,No,No,3.6,Good
+Albany,No,No,3.8,Good
+Albany,No,No,3.9,Good
+Albany,No,No,3.5,Good
+Albany,No,No,3.5,Good
+Albany,No,No,3.6,Good
+Albany,No,No,3.5,Good
+Albany,No,No,3.8,Good
+Albany,No,No,3.7,Good
+Albany,No,No,3.4,Average
+Armidale,No,No,3.5,Good
+Athens,No,No,4.5,Excellent
+Athens,No,No,4.5,Excellent
+Athens,No,No,4.6,Excellent
+Athens,No,No,3.9,Good
+Athens,No,No,3.7,Good
+Athens,No,No,4.3,Very Good
+Athens,No,No,4.2,Very Good
+Athens,No,No,4,Very Good
+Athens,No,No,4.1,Very Good
+Athens,No,No,4.3,Very Good
+Athens,No,No,4.2,Very Good
+Athens,No,No,4.1,Very Good
+Athens,No,No,4.1,Very Good
+Athens,No,No,4.2,Very Good
+Athens,No,No,4.1,Very Good
+Athens,No,No,4.1,Very Good
+Athens,No,No,4.4,Very Good
+Athens,No,No,4.4,Very Good
+Athens,No,No,4.2,Very Good
+Athens,No,No,4.1,Very Good
+Augusta,No,No,4.6,Excellent
+Augusta,No,No,4.9,Excellent
+Augusta,No,No,4.5,Excellent
+Augusta,No,No,3.9,Good
+Augusta,No,No,3.9,Good
+Augusta,No,No,3.8,Good
+Augusta,No,No,3.5,Good
+Augusta,No,No,4.3,Very Good
+Augusta,No,No,4.1,Very Good
+Augusta,No,No,4.4,Very Good
+Augusta,No,No,4,Very Good
+Augusta,No,No,4,Very Good
+Augusta,No,No,4.2,Very Good
+Augusta,No,No,4,Very Good
+Augusta,No,No,4,Very Good
+Augusta,No,No,3.9,Good
+Augusta,No,No,4.1,Very Good
+Augusta,No,No,4,Very Good
+Augusta,No,No,4.3,Very Good
+Augusta,No,No,4.2,Very Good
+Balingup,No,No,3.2,Average
+Beechworth,No,No,4.6,Excellent
+Boise,No,No,4.5,Excellent
+Boise,No,No,4.6,Excellent
+Boise,No,No,4.5,Excellent
+Boise,No,No,3.9,Good
+Boise,No,No,4.3,Very Good
+Boise,No,No,4.1,Very Good
+Boise,No,No,4.2,Very Good
+Boise,No,No,4.3,Very Good
+Boise,No,No,4.4,Very Good
+Boise,No,No,4.1,Very Good
+Boise,No,No,4.4,Very Good
+Boise,No,No,4.3,Very Good
+Boise,No,No,4.4,Very Good
+Boise,No,No,4.4,Very Good
+Boise,No,No,4,Very Good
+Boise,No,No,4.1,Very Good
+Boise,No,No,4.3,Very Good
+Boise,No,No,4,Very Good
+Boise,No,No,4,Very Good
+Boise,No,No,4.4,Very Good
+Cedar Rapids/Iowa City,No,No,3.7,Good
+Cedar Rapids/Iowa City,No,No,4.1,Very Good
+Cedar Rapids/Iowa City,No,No,4.1,Very Good
+Cedar Rapids/Iowa City,No,No,4.1,Very Good
+Cedar Rapids/Iowa City,No,No,4.4,Very Good
+Cedar Rapids/Iowa City,No,No,4.2,Very Good
+Cedar Rapids/Iowa City,No,No,4.2,Very Good
+Cedar Rapids/Iowa City,No,No,4.2,Very Good
+Cedar Rapids/Iowa City,No,No,3.8,Good
+Cedar Rapids/Iowa City,No,No,4.1,Very Good
+Cedar Rapids/Iowa City,No,No,4.9,Excellent
+Cedar Rapids/Iowa City,No,No,4.5,Excellent
+Cedar Rapids/Iowa City,No,No,3.6,Good
+Cedar Rapids/Iowa City,No,No,3.8,Good
+Cedar Rapids/Iowa City,No,No,4.3,Very Good
+Cedar Rapids/Iowa City,No,No,4.3,Very Good
+Cedar Rapids/Iowa City,No,No,4.1,Very Good
+Cedar Rapids/Iowa City,No,No,4,Very Good
+Cedar Rapids/Iowa City,No,No,4.2,Very Good
+Cedar Rapids/Iowa City,No,No,4.7,Excellent
+Chatham-Kent,No,No,3.7,Good
+Clatskanie,No,No,4.3,Very Good
+Cochrane,No,No,3.1,Average
+Columbus,No,No,3.3,Average
+Columbus,No,No,4.6,Excellent
+Columbus,No,No,4.5,Excellent
+Columbus,No,No,3.8,Good
+Columbus,No,No,3.9,Good
+Columbus,No,No,3.9,Good
+Columbus,No,No,3.7,Good
+Columbus,No,No,3.6,Good
+Columbus,No,No,3.7,Good
+Columbus,No,No,4.2,Very Good
+Columbus,No,No,4.3,Very Good
+Columbus,No,No,4,Very Good
+Columbus,No,No,4,Very Good
+Columbus,No,No,4,Very Good
+Columbus,No,No,4.1,Very Good
+Columbus,No,No,4.1,Very Good
+Columbus,No,No,4.2,Very Good
+Columbus,No,No,4.3,Very Good
+Columbus,No,No,4,Very Good
+Columbus,No,No,4.4,Very Good
+Consort,No,No,3,Average
+Dalton,No,No,3.7,Good
+Dalton,No,No,4.4,Very Good
+Dalton,No,No,4.4,Very Good
+Dalton,No,No,3.9,Good
+Dalton,No,No,4.9,Excellent
+Dalton,No,No,3.8,Good
+Dalton,No,No,3.8,Good
+Dalton,No,No,3.8,Good
+Dalton,No,No,3.7,Good
+Dalton,No,No,4.1,Very Good
+Dalton,No,No,4.1,Very Good
+Dalton,No,No,4.1,Very Good
+Dalton,No,No,4.6,Excellent
+Dalton,No,No,4.3,Very Good
+Dalton,No,No,4.2,Very Good
+Dalton,No,No,3.7,Good
+Dalton,No,No,4.1,Very Good
+Dalton,No,No,4.3,Very Good
+Dalton,No,No,4.2,Very Good
+Dalton,No,No,4.1,Very Good
+Davenport,No,No,4.6,Excellent
+Davenport,No,No,4.5,Excellent
+Davenport,No,No,3.9,Good
+Davenport,No,No,4,Very Good
+Davenport,No,No,4.1,Very Good
+Davenport,No,No,3.4,Average
+Davenport,No,No,4.9,Excellent
+Davenport,No,No,3.9,Good
+Davenport,No,No,3.7,Good
+Davenport,No,No,0,Not rated
+Davenport,No,No,0,Not rated
+Davenport,No,No,4.3,Very Good
+Davenport,No,No,4,Very Good
+Davenport,No,No,4.1,Very Good
+Davenport,No,No,4.3,Very Good
+Davenport,No,No,4,Very Good
+Davenport,No,No,4.1,Very Good
+Davenport,No,No,4.1,Very Good
+Davenport,No,No,4.2,Very Good
+Davenport,No,No,4.2,Very Good
+Des Moines,No,No,4.5,Excellent
+Des Moines,No,No,4.9,Excellent
+Des Moines,No,No,4.5,Excellent
+Des Moines,No,No,4.1,Very Good
+Des Moines,No,No,4,Very Good
+Des Moines,No,No,3.2,Average
+Des Moines,No,No,4.5,Excellent
+Des Moines,No,No,4.6,Excellent
+Des Moines,No,No,4.4,Very Good
+Des Moines,No,No,4.2,Very Good
+Des Moines,No,No,4.3,Very Good
+Des Moines,No,No,4.8,Excellent
+Des Moines,No,No,4.2,Very Good
+Des Moines,No,No,4.1,Very Good
+Des Moines,No,No,4.1,Very Good
+Des Moines,No,No,4,Very Good
+Des Moines,No,No,4.3,Very Good
+Des Moines,No,No,3.8,Good
+Des Moines,No,No,4,Very Good
+Des Moines,No,No,4.2,Very Good
+Dicky Beach,No,No,3.6,Good
+Dubuque,No,No,3.4,Average
+Dubuque,No,No,3.3,Average
+Dubuque,No,No,3.4,Average
+Dubuque,No,No,3.3,Average
+Dubuque,No,No,3.4,Average
+Dubuque,No,No,3.5,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.5,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.7,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.8,Good
+Dubuque,No,No,3.5,Good
+Dubuque,No,No,3.5,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.6,Good
+Dubuque,No,No,3.5,Good
+Dubuque,No,No,3.7,Good
+Dubuque,No,No,3.6,Good
+East Ballina,No,No,4.1,Very Good
+Fernley,No,No,3.7,Good
+Flaxton,No,No,3.5,Good
+Forrest,No,No,3.7,Good
+Gainesville,No,No,4.4,Very Good
+Gainesville,No,No,4.1,Very Good
+Gainesville,No,No,3.8,Good
+Gainesville,No,No,3.9,Good
+Gainesville,No,No,3.9,Good
+Gainesville,No,No,4.4,Very Good
+Gainesville,No,No,4.1,Very Good
+Gainesville,No,No,3.8,Good
+Gainesville,No,No,4.3,Very Good
+Gainesville,No,No,4.1,Very Good
+Gainesville,No,No,4.9,Excellent
+Gainesville,No,No,4.6,Excellent
+Gainesville,No,No,3.8,Good
+Gainesville,No,No,4.2,Very Good
+Gainesville,No,No,4.3,Very Good
+Gainesville,No,No,4.2,Very Good
+Gainesville,No,No,3.8,Good
+Gainesville,No,No,3.9,Good
+Gainesville,No,No,2.2,Poor
+Gainesville,No,No,4,Very Good
+Hepburn Springs,No,No,3.8,Good
+Hepburn Springs,No,No,3.8,Good
+Huskisson,No,No,4.1,Very Good
+Inverloch,No,No,3.7,Good
+Lakes Entrance,No,No,3.8,Good
+Lakeview,No,No,3.6,Good
+Lincoln,No,No,4.5,Excellent
+Lorn,No,No,3.6,Good
+Macedon,No,No,3.5,Good
+Macon,No,No,3.9,Good
+Macon,No,No,4.9,Excellent
+Macon,No,No,4.6,Excellent
+Macon,No,No,4.5,Excellent
+Macon,No,No,4.5,Excellent
+Macon,No,No,3.8,Good
+Macon,No,No,4.1,Very Good
+Macon,No,No,4,Very Good
+Macon,No,No,4.3,Very Good
+Macon,No,No,4.2,Very Good
+Macon,No,No,4.2,Very Good
+Macon,No,No,3.7,Good
+Macon,No,No,3.7,Good
+Macon,No,No,3.7,Good
+Macon,No,No,3.8,Good
+Macon,No,No,4.1,Very Good
+Macon,No,No,4,Very Good
+Macon,No,No,4.2,Very Good
+Macon,No,No,4,Very Good
+Macon,No,No,4.1,Very Good
+Mayfield,No,No,2.9,Average
+Mc Millan,No,No,2.4,Poor
+Middleton Beach,No,No,3.8,Good
+Miller,No,No,3.4,Average
+Monroe,No,No,3.6,Good
+Montville,No,No,2.4,Poor
+Ojo Caliente,No,No,3.6,Good
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.5,Excellent
+Orlando,No,No,4.7,Excellent
+Orlando,No,No,4.3,Very Good
+Orlando,No,No,4.6,Excellent
+Orlando,No,No,4.6,Excellent
+Orlando,No,No,4.3,Very Good
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.6,Excellent
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.8,Excellent
+Orlando,No,No,4.9,Excellent
+Orlando,No,No,4.9,Excellent
+Orlando,No,No,4.7,Excellent
+Orlando,No,No,3.6,Good
+Orlando,No,No,4.2,Very Good
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.4,Very Good
+Orlando,No,No,4.4,Very Good
+Palm Cove,No,No,4.4,Very Good
+Paynesville,No,No,2.6,Average
+Penola,No,No,3.4,Average
+Pensacola,No,No,4.2,Very Good
+Pensacola,No,No,4.9,Excellent
+Pensacola,No,No,4.6,Excellent
+Pensacola,No,No,4.5,Excellent
+Pensacola,No,No,3.7,Good
+Pensacola,No,No,3.9,Good
+Pensacola,No,No,3.7,Good
+Pensacola,No,No,4.2,Very Good
+Pensacola,No,No,4.1,Very Good
+Pensacola,No,No,4.4,Very Good
+Pensacola,No,No,4.3,Very Good
+Pensacola,No,No,4,Very Good
+Pensacola,No,No,4.1,Very Good
+Pensacola,No,No,3.9,Good
+Pensacola,No,No,3.5,Good
+Pensacola,No,No,4.2,Very Good
+Pensacola,No,No,4.4,Very Good
+Pensacola,No,No,4.3,Very Good
+Pensacola,No,No,4.7,Excellent
+Pensacola,No,No,4.4,Very Good
+Phillip Island,No,No,3.7,Good
+Pocatello,No,No,3.7,Good
+Pocatello,No,No,3.5,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.7,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.5,Good
+Pocatello,No,No,3.8,Good
+Pocatello,No,No,3.8,Good
+Pocatello,No,No,3.7,Good
+Pocatello,No,No,3.5,Good
+Pocatello,No,No,3.7,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,3.8,Good
+Pocatello,No,No,3.7,Good
+Pocatello,No,No,3.6,Good
+Pocatello,No,No,0,Not rated
+Pocatello,No,No,4.1,Very Good
+Potrero,No,No,3.3,Average
+Princeton,No,No,4,Very Good
+Rest of Hawaii,No,No,4.5,Excellent
+Rest of Hawaii,No,No,4.7,Excellent
+Rest of Hawaii,No,No,4.7,Excellent
+Rest of Hawaii,No,No,4.5,Excellent
+Rest of Hawaii,No,No,4.5,Excellent
+Rest of Hawaii,No,No,4.2,Very Good
+Rest of Hawaii,No,No,4.2,Very Good
+Rest of Hawaii,No,No,4.6,Excellent
+Rest of Hawaii,No,No,4.2,Very Good
+Rest of Hawaii,No,No,4.4,Very Good
+Rest of Hawaii,No,No,4.3,Very Good
+Rest of Hawaii,No,No,4.3,Very Good
+Rest of Hawaii,No,No,4.9,Excellent
+Rest of Hawaii,No,No,4.9,Excellent
+Rest of Hawaii,No,No,4.6,Excellent
+Rest of Hawaii,No,No,3.9,Good
+Rest of Hawaii,No,No,4.4,Very Good
+Rest of Hawaii,No,No,4,Very Good
+Rest of Hawaii,No,No,4.2,Very Good
+Rest of Hawaii,No,No,4.2,Very Good
+Savannah,No,No,3.3,Average
+Savannah,No,No,4.7,Excellent
+Savannah,No,No,4.6,Excellent
+Savannah,No,No,4.5,Excellent
+Savannah,No,No,4.5,Excellent
+Savannah,No,No,3.7,Good
+Savannah,No,No,3.8,Good
+Savannah,No,No,4.1,Very Good
+Savannah,No,No,4.4,Very Good
+Savannah,No,No,4.2,Very Good
+Savannah,No,No,4.1,Very Good
+Savannah,No,No,4.1,Very Good
+Savannah,No,No,4.3,Very Good
+Savannah,No,No,4.3,Very Good
+Savannah,No,No,4,Very Good
+Savannah,No,No,4.3,Very Good
+Savannah,No,No,4.4,Very Good
+Savannah,No,No,4.1,Very Good
+Savannah,No,No,3.8,Good
+Savannah,No,No,3.9,Good
+Singapore,No,No,3.4,Average
+Singapore,No,No,4,Very Good
+Singapore,No,No,3.8,Good
+Singapore,No,No,3.1,Average
+Singapore,No,No,3.8,Good
+Singapore,No,No,3.9,Good
+Singapore,No,No,4.2,Very Good
+Singapore,No,No,4.1,Very Good
+Singapore,No,No,3.2,Average
+Singapore,No,No,3.2,Average
+Singapore,No,No,3.7,Good
+Singapore,No,No,3,Average
+Singapore,No,No,3.8,Good
+Singapore,No,No,3.9,Good
+Singapore,No,No,3.1,Average
+Singapore,No,No,3.2,Average
+Singapore,No,No,3.2,Average
+Singapore,No,No,3.8,Good
+Singapore,No,No,3.9,Good
+Singapore,No,No,3.2,Average
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.6,Good
+Sioux City,No,No,3.8,Good
+Sioux City,No,No,3.6,Good
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.6,Good
+Sioux City,No,No,3.8,Good
+Sioux City,No,No,3.8,Good
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.9,Good
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.8,Good
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.7,Good
+Sioux City,No,No,3.8,Good
+Sioux City,No,No,3.9,Good
+Sioux City,No,No,4,Very Good
+Sioux City,No,No,4,Very Good
+Sioux City,No,No,4,Very Good
+Sioux City,No,No,3.5,Good
+Tampa Bay,No,No,4.6,Excellent
+Tampa Bay,No,No,4.6,Excellent
+Tampa Bay,No,No,4.1,Very Good
+Tampa Bay,No,No,4.1,Very Good
+Tampa Bay,No,No,4.1,Very Good
+Tampa Bay,No,No,4.7,Excellent
+Tampa Bay,No,No,3.9,Good
+Tampa Bay,No,No,3.9,Good
+Tampa Bay,No,No,4.4,Very Good
+Tampa Bay,No,No,4.4,Very Good
+Tampa Bay,No,No,4.2,Very Good
+Tampa Bay,No,No,4.9,Excellent
+Tampa Bay,No,No,4.5,Excellent
+Tampa Bay,No,No,4.9,Excellent
+Tampa Bay,No,No,4.5,Excellent
+Tampa Bay,No,No,4.7,Excellent
+Tampa Bay,No,No,4.8,Excellent
+Tampa Bay,No,No,4.5,Excellent
+Tampa Bay,No,No,4,Very Good
+Tampa Bay,No,No,4.4,Very Good
+Tanunda,No,No,4.4,Very Good
+Trentham East,No,No,4.1,Very Good
+Valdosta,No,No,3.4,Average
+Valdosta,No,No,3.1,Average
+Valdosta,No,No,3.9,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.9,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,3.5,Good
+Valdosta,No,No,3.9,Good
+Valdosta,No,No,3.7,Good
+Valdosta,No,No,3.5,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,3.8,Good
+Valdosta,No,No,4.1,Very Good
+Vernonia,No,No,4.3,Very Good
+Victor Harbor,No,No,3.6,Good
+Vineland Station,No,No,4.3,Very Good
+Waterloo,No,No,3.2,Average
+Waterloo,No,No,3.7,Good
+Waterloo,No,No,3.9,Good
+Waterloo,No,No,3.8,Good
+Waterloo,No,No,3.7,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.8,Good
+Waterloo,No,No,3.7,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.7,Good
+Waterloo,No,No,3.6,Good
+Waterloo,No,No,3.7,Good
+Waterloo,No,No,3.5,Good
+Waterloo,No,No,3.9,Good
+Weirton,No,No,3.9,Good
+Winchester Bay,No,No,3.2,Average
+Yorkton,No,No,3.3,Average
+Abu Dhabi,No,No,4.6,Excellent
+Abu Dhabi,No,Yes,4.6,Excellent
+Abu Dhabi,Yes,Yes,4.4,Very Good
+Abu Dhabi,No,No,4.3,Very Good
+Abu Dhabi,No,No,4.2,Very Good
+Abu Dhabi,No,No,4.6,Excellent
+Abu Dhabi,No,No,4.1,Very Good
+Abu Dhabi,Yes,Yes,4.4,Very Good
+Abu Dhabi,Yes,Yes,4,Very Good
+Abu Dhabi,No,Yes,3.6,Good
+Abu Dhabi,No,Yes,4.5,Excellent
+Abu Dhabi,No,Yes,4,Very Good
+Abu Dhabi,No,Yes,4,Very Good
+Abu Dhabi,No,Yes,4,Very Good
+Abu Dhabi,Yes,Yes,4.3,Very Good
+Abu Dhabi,No,Yes,4,Very Good
+Abu Dhabi,Yes,No,4.9,Excellent
+Abu Dhabi,Yes,No,4.7,Excellent
+Abu Dhabi,No,No,4.2,Very Good
+Abu Dhabi,No,No,4.6,Excellent
+Dubai,Yes,No,3.9,Good
+Dubai,Yes,Yes,4.1,Very Good
+Dubai,Yes,Yes,4.3,Very Good
+Dubai,Yes,No,4.5,Excellent
+Dubai,Yes,No,4.5,Excellent
+Dubai,Yes,No,4.9,Excellent
+Dubai,Yes,No,4.9,Excellent
+Dubai,Yes,No,4.8,Excellent
+Dubai,No,No,4.5,Excellent
+Dubai,No,Yes,4.5,Excellent
+Dubai,No,No,4.3,Very Good
+Dubai,No,No,4.3,Very Good
+Dubai,Yes,No,4.4,Very Good
+Dubai,Yes,No,4.9,Excellent
+Dubai,Yes,Yes,4.4,Very Good
+Dubai,No,No,3.2,Average
+Dubai,No,No,4.7,Excellent
+Dubai,No,No,4.3,Very Good
+Dubai,No,Yes,3.7,Good
+Dubai,Yes,Yes,4.3,Very Good
+Sharjah,No,Yes,3.9,Good
+Sharjah,No,Yes,3.8,Good
+Sharjah,No,Yes,4.1,Very Good
+Sharjah,No,No,4.3,Very Good
+Sharjah,No,Yes,3.9,Good
+Sharjah,No,No,4.1,Very Good
+Sharjah,No,Yes,4.1,Very Good
+Sharjah,No,Yes,4.2,Very Good
+Sharjah,No,Yes,4.1,Very Good
+Sharjah,No,No,2.4,Poor
+Sharjah,No,No,4.2,Very Good
+Sharjah,No,No,4.2,Very Good
+Sharjah,No,Yes,4.2,Very Good
+Sharjah,No,Yes,3.8,Good
+Sharjah,No,Yes,3.9,Good
+Sharjah,No,No,4.8,Excellent
+Sharjah,No,Yes,4.1,Very Good
+Sharjah,No,No,4.5,Excellent
+Sharjah,No,No,3.8,Good
+Sharjah,No,No,4.2,Very Good
+Agra,No,No,3.9,Good
+Agra,No,No,3.5,Good
+Agra,No,No,3.6,Good
+Agra,No,No,4,Very Good
+Agra,No,No,4.2,Very Good
+Agra,No,No,4,Very Good
+Agra,No,No,4.3,Very Good
+Agra,No,No,4,Very Good
+Agra,No,No,3.6,Good
+Agra,No,No,3.8,Good
+Agra,No,No,3.9,Good
+Agra,No,No,4.1,Very Good
+Agra,No,No,3.4,Average
+Agra,No,No,4.9,Excellent
+Agra,No,No,3.8,Good
+Agra,No,No,3.9,Good
+Agra,No,No,3.7,Good
+Agra,No,No,4.4,Very Good
+Agra,No,No,4.2,Very Good
+Agra,No,No,4.1,Very Good
+Ahmedabad,No,No,4.2,Very Good
+Ahmedabad,No,No,3.7,Good
+Ahmedabad,No,Yes,4.5,Excellent
+Ahmedabad,No,No,4.1,Very Good
+Ahmedabad,No,Yes,4.3,Very Good
+Ahmedabad,No,Yes,4.4,Very Good
+Ahmedabad,No,Yes,4.4,Very Good
+Ahmedabad,No,Yes,3.8,Good
+Ahmedabad,No,No,3.6,Good
+Ahmedabad,No,No,4.6,Excellent
+Ahmedabad,No,No,4.4,Very Good
+Ahmedabad,No,No,4.3,Very Good
+Ahmedabad,No,Yes,3.8,Good
+Ahmedabad,No,Yes,4.3,Very Good
+Ahmedabad,No,Yes,4,Very Good
+Ahmedabad,No,Yes,4.4,Very Good
+Ahmedabad,No,Yes,4.5,Excellent
+Ahmedabad,No,No,4.1,Very Good
+Ahmedabad,No,No,4.1,Very Good
+Ahmedabad,No,Yes,3.9,Good
+Ahmedabad,No,No,4,Very Good
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.3,Average
+Allahabad,No,No,3.2,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.3,Average
+Allahabad,No,No,3.2,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.2,Average
+Allahabad,No,No,3.3,Average
+Allahabad,No,No,3.4,Average
+Allahabad,No,No,3.6,Good
+Allahabad,No,No,3.7,Good
+Allahabad,No,No,3.5,Good
+Allahabad,No,No,3.6,Good
+Allahabad,No,No,3.5,Good
+Allahabad,No,No,3.3,Average
+Amritsar,No,No,3.4,Average
+Amritsar,No,No,3.9,Good
+Amritsar,No,No,4,Very Good
+Amritsar,No,No,3.4,Average
+Amritsar,No,No,3.6,Good
+Amritsar,No,No,3.5,Good
+Amritsar,No,No,3.4,Average
+Amritsar,No,No,3.4,Average
+Amritsar,No,No,3.5,Good
+Amritsar,No,No,3.6,Good
+Amritsar,No,No,3.9,Good
+Amritsar,No,No,3.4,Average
+Amritsar,No,No,3.7,Good
+Amritsar,No,No,3.5,Good
+Amritsar,No,No,3.8,Good
+Amritsar,No,No,3.8,Good
+Amritsar,No,No,4.1,Very Good
+Amritsar,No,No,4.1,Very Good
+Amritsar,No,No,3.8,Good
+Amritsar,No,No,3.5,Good
+Amritsar,No,No,4.1,Very Good
+Aurangabad,No,No,3.6,Good
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.1,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.6,Good
+Aurangabad,No,No,3.5,Good
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.7,Good
+Aurangabad,No,No,3.2,Average
+Aurangabad,No,No,3.4,Average
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.3,Average
+Aurangabad,No,No,3.3,Average
+Bangalore,Yes,Yes,4.1,Very Good
+Bangalore,Yes,Yes,4.7,Excellent
+Bangalore,No,No,4.8,Excellent
+Bangalore,Yes,No,3.9,Good
+Bangalore,No,Yes,4.2,Very Good
+Bangalore,No,No,4,Very Good
+Bangalore,No,Yes,4.3,Very Good
+Bangalore,No,No,4.6,Excellent
+Bangalore,No,No,4.7,Excellent
+Bangalore,No,Yes,4.7,Excellent
+Bangalore,Yes,No,4.1,Very Good
+Bangalore,No,Yes,4.3,Very Good
+Bangalore,No,No,4.5,Excellent
+Bangalore,No,No,4.6,Excellent
+Bangalore,Yes,No,4.4,Very Good
+Bangalore,No,No,4.6,Excellent
+Bangalore,No,No,4.2,Very Good
+Bangalore,Yes,Yes,4.5,Excellent
+Bangalore,No,No,3.9,Good
+Bangalore,No,No,4.4,Very Good
+Bhopal,No,No,3.3,Average
+Bhopal,No,No,3.4,Average
+Bhopal,No,No,4.9,Excellent
+Bhopal,No,No,3.9,Good
+Bhopal,No,No,4.2,Very Good
+Bhopal,No,No,4,Very Good
+Bhopal,No,No,4,Very Good
+Bhopal,No,No,4.1,Very Good
+Bhopal,No,No,3.8,Good
+Bhopal,No,No,3.8,Good
+Bhopal,No,No,3.5,Good
+Bhopal,No,No,3.6,Good
+Bhopal,No,No,3.6,Good
+Bhopal,No,No,4.1,Very Good
+Bhopal,No,No,4.4,Very Good
+Bhopal,No,No,4.1,Very Good
+Bhopal,No,No,4.3,Very Good
+Bhopal,No,No,3.9,Good
+Bhopal,No,No,3.8,Good
+Bhopal,No,No,4.3,Very Good
+Bhubaneshwar,No,No,3.9,Good
+Bhubaneshwar,No,No,4.1,Very Good
+Bhubaneshwar,No,No,4.6,Excellent
+Bhubaneshwar,No,No,4.5,Excellent
+Bhubaneshwar,No,No,3.9,Good
+Bhubaneshwar,No,No,4,Very Good
+Bhubaneshwar,No,No,3.7,Good
+Bhubaneshwar,No,No,4.1,Very Good
+Bhubaneshwar,No,No,3.6,Good
+Bhubaneshwar,No,No,3.8,Good
+Bhubaneshwar,No,No,3.7,Good
+Bhubaneshwar,No,No,3.7,Good
+Bhubaneshwar,No,No,3.8,Good
+Bhubaneshwar,No,No,4,Very Good
+Bhubaneshwar,No,No,4,Very Good
+Bhubaneshwar,No,No,4.3,Very Good
+Bhubaneshwar,No,No,4.1,Very Good
+Bhubaneshwar,No,No,3.8,Good
+Bhubaneshwar,No,No,4.2,Very Good
+Bhubaneshwar,No,No,4.3,Very Good
+Bhubaneshwar,No,No,3.5,Good
+Chandigarh,No,Yes,3.7,Good
+Chandigarh,No,No,4.2,Very Good
+Chandigarh,No,Yes,4.3,Very Good
+Chandigarh,No,No,4.1,Very Good
+Chandigarh,No,No,4,Very Good
+Chandigarh,No,No,4,Very Good
+Chandigarh,No,No,4.5,Excellent
+Chandigarh,No,No,4.3,Very Good
+Chandigarh,No,No,3.8,Good
+Chandigarh,No,Yes,3.4,Average
+Chandigarh,No,No,4.1,Very Good
+Chandigarh,No,No,4.1,Very Good
+Chandigarh,No,Yes,4,Very Good
+Chandigarh,No,Yes,4.2,Very Good
+Chandigarh,No,No,3.3,Average
+Chandigarh,No,No,4.4,Very Good
+Chandigarh,No,Yes,4.5,Excellent
+Chandigarh,No,No,4,Very Good
+Chennai,Yes,Yes,4.2,Very Good
+Chennai,Yes,Yes,3.8,Good
+Chennai,Yes,Yes,4.4,Very Good
+Chennai,Yes,Yes,4.2,Very Good
+Chennai,Yes,Yes,4.8,Excellent
+Chennai,No,Yes,4.2,Very Good
+Chennai,No,No,4.6,Excellent
+Chennai,No,No,4.1,Very Good
+Chennai,Yes,Yes,4,Very Good
+Chennai,Yes,Yes,4.6,Excellent
+Chennai,Yes,No,4.2,Very Good
+Chennai,No,Yes,3.8,Good
+Chennai,Yes,Yes,4.3,Very Good
+Chennai,Yes,Yes,4.4,Very Good
+Chennai,Yes,Yes,4.3,Very Good
+Chennai,Yes,Yes,4.5,Excellent
+Chennai,No,No,4.4,Very Good
+Chennai,No,No,4.9,Excellent
+Chennai,No,No,4.6,Excellent
+Chennai,Yes,No,4,Very Good
+Coimbatore,No,Yes,4.6,Excellent
+Coimbatore,No,No,3.9,Good
+Coimbatore,No,Yes,3.8,Good
+Coimbatore,No,Yes,3.5,Good
+Coimbatore,No,No,4.3,Very Good
+Coimbatore,No,Yes,4.1,Very Good
+Coimbatore,No,No,3.8,Good
+Coimbatore,No,No,4.5,Excellent
+Coimbatore,No,No,3.8,Good
+Coimbatore,No,Yes,3.9,Good
+Coimbatore,No,No,4.2,Very Good
+Coimbatore,No,Yes,4,Very Good
+Coimbatore,No,No,4,Very Good
+Coimbatore,No,No,4,Very Good
+Coimbatore,No,No,4.3,Very Good
+Coimbatore,No,No,4.2,Very Good
+Coimbatore,No,Yes,4.9,Excellent
+Coimbatore,No,No,4.2,Very Good
+Coimbatore,No,No,4.3,Very Good
+Coimbatore,No,No,4.4,Very Good
+Dehradun,No,No,3.6,Good
+Dehradun,No,No,3.8,Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,4.2,Very Good
+Dehradun,No,No,4.9,Excellent
+Dehradun,No,No,4.3,Very Good
+Dehradun,No,No,4,Very Good
+Dehradun,No,No,3.8,Good
+Dehradun,No,No,4,Very Good
+Dehradun,No,No,4.1,Very Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,3.9,Good
+Dehradun,No,No,4.4,Very Good
+Dehradun,No,No,4,Very Good
+Dehradun,No,No,4.1,Very Good
+Dehradun,No,No,4.2,Very Good
+Dehradun,No,No,4.2,Very Good
+Faridabad,No,No,2.9,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,2.9,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,3,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,2.9,Average
+Faridabad,No,No,3,Average
+Faridabad,No,No,2.9,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,Yes,2.8,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,Yes,3.8,Good
+Faridabad,No,Yes,3.6,Good
+Faridabad,No,Yes,3.6,Good
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,Yes,2.1,Poor
+Faridabad,No,No,4,Very Good
+Faridabad,No,Yes,4.1,Very Good
+Faridabad,No,No,3.2,Average
+Faridabad,No,Yes,2.7,Average
+Faridabad,No,Yes,3.4,Average
+Faridabad,Yes,No,2.4,Poor
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,0,Not rated
+Faridabad,Yes,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,Yes,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,Yes,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,3,Average
+Faridabad,No,No,3.2,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,3.1,Average
+Faridabad,No,No,3,Average
+Faridabad,No,Yes,3.1,Average
+Faridabad,Yes,No,2.9,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,Yes,Yes,3.3,Average
+Faridabad,No,No,3,Average
+Faridabad,No,No,2.6,Average
+Faridabad,No,Yes,2.9,Average
+Faridabad,No,No,2.9,Average
+Faridabad,Yes,Yes,3.1,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,Yes,3.2,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,No,3.3,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,Yes,3.4,Average
+Faridabad,No,No,3.3,Average
+Faridabad,No,Yes,2.6,Average
+Faridabad,No,No,3.3,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,No,2.6,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,No,4.5,Excellent
+Faridabad,No,Yes,3.6,Good
+Faridabad,No,Yes,3.5,Good
+Faridabad,Yes,No,3.8,Good
+Faridabad,No,No,3.5,Good
+Faridabad,No,No,3.6,Good
+Faridabad,No,No,3.7,Good
+Faridabad,No,No,3.6,Good
+Faridabad,No,No,3.5,Good
+Faridabad,No,No,3.6,Good
+Faridabad,No,No,3.5,Good
+Faridabad,No,No,3.6,Good
+Faridabad,No,Yes,3.8,Good
+Faridabad,No,No,3.5,Good
+Faridabad,No,No,3.6,Good
+Faridabad,No,No,3.8,Good
+Faridabad,No,No,3.5,Good
+Faridabad,No,Yes,4.1,Very Good
+Faridabad,No,No,2.9,Average
+Faridabad,No,Yes,2.9,Average
+Faridabad,No,No,2.5,Average
+Faridabad,No,No,3.1,Average
+Faridabad,No,No,3,Average
+Faridabad,No,No,3.4,Average
+Faridabad,Yes,No,3.3,Average
+Faridabad,No,No,3.1,Average
+Faridabad,No,No,3.1,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,Yes,2.7,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,2.7,Average
+Faridabad,No,No,3.2,Average
+Faridabad,No,No,3.4,Average
+Faridabad,No,Yes,3.3,Average
+Faridabad,Yes,Yes,0,Not rated
+Faridabad,No,No,3,Average
+Faridabad,No,Yes,3.3,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,3.1,Average
+Faridabad,No,No,2.8,Average
+Faridabad,No,No,3,Average
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
+Faridabad,No,No,0,Not rated
