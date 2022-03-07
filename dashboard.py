@@ -5,15 +5,13 @@ import csv
 def main_sa():
     print("ENTER 1 TO SHOW POSITIVE:\r\nENTER 2 TO SHOW NEGATIVE:\r\nENTER 3 TO SHOW NEUTRAL:\r\nENTER 4 TO SHOW SCATTER CHART:\r\nENTER 5 TO SHOW BAR CHART:\r\nENTER 6 TO EXIT:")
     delimiters = ["[", "'", "]", "(", ")"]
-    pos = 0
-    neg = 0
-    neu = 0
     y = []
     a = int(input())
 
-    with open('yt_comments.csv', 'r',errors='ignore') as file:
+    with open('zomato.csv', 'r',errors='ignore') as file:
         reader = csv.reader(file)
         for row in reader:
+            print(reader)
             data = row
             string_data = str(data)
 
