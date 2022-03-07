@@ -2,14 +2,23 @@ import textblob as tb
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+# How many cities are there?
+# How many restaurants have Table option
+# How many has online delivery
+# Scatter chart of Aggregate rating
+# Bar chart of Text Rating
+# Exit
+
 def main_sa():
     print("ENTER 1 TO SHOW POSITIVE:\r\nENTER 2 TO SHOW NEGATIVE:\r\nENTER 3 TO SHOW NEUTRAL:\r\nENTER 4 TO SHOW SCATTER CHART:\r\nENTER 5 TO SHOW BAR CHART:\r\nENTER 6 TO EXIT:")
     delimiters = ["[", "'", "]", "(", ")"]
     y = []
     a = int(input())
 
+
     with open('zomato.csv', 'r',errors='ignore') as file:
         reader = csv.reader(file)
+        print(reader)
         for row in reader:
             print(reader)
             data = row
@@ -18,17 +27,6 @@ def main_sa():
             for i in delimiters:
                 string_data = string_data.replace(i, '')
             input_to_textblob = tb.TextBlob(string_data)
-            sentence_polarity = input_to_textblob.sentiment.polarity
-
-            if (sentence_polarity > 0):
-                y.append(sentence_polarity)
-                pos += 1
-            elif (sentence_polarity == 0):
-                y.append(sentence_polarity)
-                neu += 1
-            elif (sentence_polarity < 0):
-                y.append(sentence_polarity)
-                neg += 1
 
     if a == 1:
         print("++++++++++++++++++++++++++\n   Total Positive: ",pos,"\n++++++++++++++++++++++++++")
