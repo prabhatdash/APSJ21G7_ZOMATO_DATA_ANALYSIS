@@ -1,4 +1,5 @@
 import textblob as tb
+import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
@@ -9,47 +10,32 @@ import csv
 # Bar chart of Text Rating
 # Exit
 
-def main_sa():
-    print("ENTER 1 TO SHOW POSITIVE:\r\nENTER 2 TO SHOW NEGATIVE:\r\nENTER 3 TO SHOW NEUTRAL:\r\nENTER 4 TO SHOW SCATTER CHART:\r\nENTER 5 TO SHOW BAR CHART:\r\nENTER 6 TO EXIT:")
-    delimiters = ["[", "'", "]", "(", ")"]
-    y = []
-    a = int(input())
+with open('zomato.csv', 'r', errors='ignore') as file:
+    reader = csv.reader(file)
+    row= []
+    city= []
+    resto= []
+    online_del= []
+    for row in reader:
+        #city.append(row.city)
+        city.append(row[0])
+        resto.append(row[1])
+        online_del.append(row[2])
+print(resto)
+# START OF THE QUSTIONS
+# How many cities are there?
+def unique_c(city):
+    myset = set(city)
+    distinct_city_list=list(myset)
+    print("Number of Distinct cities are :", len(distinct_city_list))
 
+count=0
+# How many restaurants have Table option
+def table_option():
 
-    with open('zomato.csv', 'r',errors='ignore') as file:
-        reader = csv.reader(file)
-        print(reader)
-        for row in reader:
-            print(reader)
-            data = row
-            string_data = str(data)
-
-            for i in delimiters:
-                string_data = string_data.replace(i, '')
-            input_to_textblob = tb.TextBlob(string_data)
-
-    if a == 1:
-        print("++++++++++++++++++++++++++\n   Total Positive: ",pos,"\n++++++++++++++++++++++++++")
-        main_sa()
-    elif a == 2:
-        print("++++++++++++++++++++++++++\n   Total Negative: ", neg,"\n++++++++++++++++++++++++++")
-        main_sa()
-    elif a == 3:
-        print("++++++++++++++++++++++++++\n   Total Neutral: ", neu, "\n++++++++++++++++++++++++++")
-        main_sa()
-    elif a == 4:
-        x = np.random.normal(min(y), max(y), len(y))
-        plt.scatter(x, y)
-        plt.savefig("scatter_sentiment_analysis.pdf")
-        plt.show()
-        main_sa()
-    elif a == 5:
-       x=[5,10,15]
-       y=[pos,neg,neu]
-       plt.bar(x,y,color=['g','r','k'])
-       plt.xticks(x,['+VE','-VE','NEUTRAL'])
-       plt.savefig("bar_sentiment_analysis.pdf")
-       plt.show()
-       main_sa()
-    elif a==6:
-        exit()
+    print("THE NUMBER OF RESTAURANTS WITH TABLE OPTION AVAILABLE ARE :", resto)
+print("#####")
+print(unique_c(city))
+print("#####")
+print(table_option)
+print("#####")
