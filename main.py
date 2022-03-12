@@ -10,7 +10,7 @@ if auth.auth_user(email)==1:
     inp_otp=input()
     if rcv_otp == inp_otp:
         print("VALIDATION SUCCESSFUL")
-        dashboard.main_sa()
+        dashboard.options()
 
     else:
         print("INVALID OTP")

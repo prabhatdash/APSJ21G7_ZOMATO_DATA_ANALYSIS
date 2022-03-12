@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dashboard">
+  <component name="RunManager" selected="Python.main">
     <configuration name="connector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="APSJ21G7_ZOMATO_DATA_ANALYSIS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.dashboard" />
         <item itemvalue="Python.pp" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.otp_sender" />
         <item itemvalue="Python.connector" />
       </list>
